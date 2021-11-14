@@ -5,8 +5,9 @@ body {
   font-family: $font;
   line-height: $base-lineheight;
   word-wrap: anywhere;
-  color: $color-black;
-  background-color: $color-white;
+  color: $color-white;
+  background-color: $color-black;
+  text-align: center;
 }
 
 //----------------------------------------------
