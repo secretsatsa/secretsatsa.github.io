@@ -1,20 +1,7 @@
 # SecretSatsa.com
 
-The goal of SecretSatsa is to list apparel that is fun and stylish, but that is
-not in-your-face Bitcoin swag. In other words: it should not be immediately
-obvious that this is Bitcoin swag. Especially to nocoiners. But if you know, you
-know.
+The goal of SecretSatsa is to SPREAD LOVE 🧡
 
-Rough rules:
-* Doesn't say "Bitcoin"
-* No Bitcoin logo*
-
-(* unless it's really small or something)
-
-### How to contribute
-
-Create a [PR on GitHub](https://github.com/secretsatsa/secretsatsa.github.io).
-Details [here](https://github.com/secretsatsa/secretsatsa.github.io/blob/master/CONTRIBUTING.md).
 
 ### Build the site locally
 
