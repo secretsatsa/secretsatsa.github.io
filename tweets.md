@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tweets
-subtitle: #SecretSatsa
+subtitle: Find. Pay. Bring joy.
 ---
 
 {% include image.html path="/assets/images/birb.png" width="33%" %}
