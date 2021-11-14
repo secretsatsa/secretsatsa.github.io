@@ -8,6 +8,8 @@ subtitle: This holiday season, spend some sats for someone else!
 
 {% include image.html path="/assets/images/satsa.png" width="33%" %}
 
+---
+
 ### How does it work?
 
 1. Order something for yourself via Lightning ⚡
@@ -18,6 +20,7 @@ subtitle: This holiday season, spend some sats for someone else!
 
 {% include image.html path="/assets/images/secret-satsa.jpg" %}
 
+Need [help]({{ '/help' | absolute_url }})?
 
 ---
 
