@@ -21,14 +21,6 @@ social:
   - name: bitcoin
     url: https://dergigi.com/support
 
-# Collections
-collections_dir: collections
-collections:
-  items:
-    title: Items
-  shops:
-    title: Shops
-
 # Author settings
 author:
   - name: Gigi
