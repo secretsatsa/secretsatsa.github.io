@@ -22,7 +22,7 @@ Treat yourself:[^without]
 
 Treat someone else:
 
-1. Find someone else's invoice on [nostr]({{ '/tweets' | absolute_url }})
+1. Find someone else's invoice on [nostr]({{ '/notes' | absolute_url }})
 2. Pay the invoice 💸
 3. ???
 4. Feel the love! 🧡

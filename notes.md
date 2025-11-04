@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tweets
+title: Notes
 subtitle: Find. Pay. Bring joy.
 ---
 
