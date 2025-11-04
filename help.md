@@ -32,7 +32,7 @@ It's the holiday season! Bake phat cookies. Create girthy channels.
 
 ### Other Questions?
 
-Join [#BitcoinTwitter](https://twitter.com/hashtag/BitcoinTwitter)[^hive] and ask around!
+Join [#BitcoinTwitter](https://ants.sh/t/BitcoinTwitter)[^hive] and ask around!
 
 ---
 
