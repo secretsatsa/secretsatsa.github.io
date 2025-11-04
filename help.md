@@ -36,4 +36,4 @@ Join [nostr](https://nstart.me/en)[^hive] and ask around! [#asknostr](https://an
 
 ---
 
-[^hive]: If you don't know who to follow, [this list](https://hive.one/c/Bitcoin?page=1) isn't terrible.
+[^hive]: If you don't know who to follow, [this list](https://following.space/d/vsgjg83h2idk) isn't terrible.
