@@ -4,7 +4,7 @@ title: Notes
 subtitle: Find. Pay. Bring joy.
 ---
 
-{% include image.html path="/assets/images/birb.png" width="33%" link="https://ants.sh/t/SecretSatsa" %}
+{% include image.html path="/assets/images/birb.webp" width="33%" link="https://ants.sh/t/SecretSatsa" %}
 
 ### Feeling Generous?
 
