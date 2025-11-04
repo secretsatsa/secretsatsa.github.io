@@ -15,14 +15,14 @@ subtitle: This holiday season, spend some sats for someone else!
 Treat yourself:[^without]
 
 1. Order something for yourself via Lightning ⚡
-2. Share the QR code of your invoice[^privacy] using the [#SecretSatsa](https://twitter.com/hashtag/SecretSatsa) hashtag
+2. Share the QR code of your invoice[^privacy] using the [#SecretSatsa](https://ants.sh/t/SecretSatsa) hashtag
 3. Wait until someone pays the invoice ⏳
 4. ???
 5. Profit! 🎅
 
 Treat someone else:
 
-1. Find someone else's invoice on [twitter]({{ '/tweets' | absolute_url }})
+1. Find someone else's invoice on [nostr]({{ '/tweets' | absolute_url }})
 2. Pay the invoice 💸
 3. ???
 4. Feel the love! 🧡
