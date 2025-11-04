@@ -32,7 +32,7 @@ It's the holiday season! Bake phat cookies. Create girthy channels.
 
 ### Other Questions?
 
-Join [nostr](https://nstart.me/en)[^hive] and ask around!
+Join [nostr](https://nstart.me/en)[^hive] and ask around! [#asknostr](https://ants.sh/t/asknostr)
 
 ---
 
