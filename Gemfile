@@ -8,8 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# Note: github-pages gem will manage Jekyll version automatically
-# gem "jekyll", "~> 3.9.0"  # Commented out - let github-pages manage version
+gem "jekyll", "~> 3.7.3"
 
 gem "github-pages", group: :jekyll_plugins
 
